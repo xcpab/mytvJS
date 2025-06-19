@@ -1,0 +1,29 @@
+name: 'Update schedule'
+
+on:
+  workflow_dispatch:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+jobs:
+  push:
+    runs-on: ${{ matrix.operating-system }}
+    timeout-minutes: 240
+    strategy:
+      matrix:
+        operating-system: [ 'ubuntu-latest' ]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: 'github/mytv-android'    			
+          dst: 'gitee/mytv-android'   
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
+          dst_token:  ${{ secrets.GITEE_TOKEN }}  
+          force_update: true
+          static_list: "mytv-js"
+          account_type: org   		
+          debug: true
