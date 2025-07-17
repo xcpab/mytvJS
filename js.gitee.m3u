@@ -31,3 +31,23 @@ javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dycj
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ds
 #EXTINF:-1 group-title="上海" tvg-name="五星体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/五星体育.png",五星体育
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
+#EXTINF:-1 group-title="北京" tvg-name="北京卫视4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视4K.png",北京卫视4K
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
+#EXTINF:-1 group-title="北京" tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png", 北京卫视
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
+#EXTINF:-1 group-title="北京" tvg-name="北京文艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京文艺.png", 北京文艺
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
+#EXTINF:-1 group-title="北京" tvg-name="北京纪实科教" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京纪实科教.png", 北京纪实科教
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjjs
+#EXTINF:-1 group-title="北京" tvg-name="北京影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京影视.png", 北京影视
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjys
+#EXTINF:-1 group-title="北京" tvg-name="北京财经" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京财经.png", 北京财经
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
+#EXTINF:-1 group-title="北京" tvg-name="北京体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京体育.png", 北京体育
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
+#EXTINF:-1 group-title="北京" tvg-name="北京生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京生活.png", 北京生活
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
+#EXTINF:-1 group-title="北京" tvg-name="北京新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京新闻.png", 北京新闻
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
+#EXTINF:-1 group-title="北京" tvg-name="卡酷动画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/卡酷动画.png", 卡酷动画
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
