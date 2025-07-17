@@ -15,3 +15,19 @@ javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv6high%2FCDTV6High.flv%2Fplaylist.m3u8
 #EXTINF:-1 group-title="成都" tvg-name="成都蓉城先锋" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/成都蓉城先锋.png",成都蓉城先锋
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fdangjiaohigh%2FdangjiaoHigh.flv%2Fplaylist.m3u8
+#EXTINF:-1 group-title="上海" tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png",东方卫视
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dfws
+#EXTINF:-1 group-title="上海" tvg-name="上海新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/上海新闻综合.png",上海新闻综合
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xwzh
+#EXTINF:-1 group-title="上海" tvg-name="新纪实" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新纪实.png",新纪实
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xjs
+#EXTINF:-1 group-title="上海" tvg-name="魔都眼" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/魔都眼.png",魔都眼
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=mdy
+#EXTINF:-1 group-title="上海" tvg-name="乐游" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/乐游.png",乐游
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ly
+#EXTINF:-1 group-title="上海" tvg-name="第一财经" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/第一财经.png",第一财经
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dycj
+#EXTINF:-1 group-title="上海" tvg-name="上海都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/上海都市.png",上海都市
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ds
+#EXTINF:-1 group-title="上海" tvg-name="五星体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/五星体育.png",五星体育
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
