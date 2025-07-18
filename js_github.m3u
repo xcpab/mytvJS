@@ -67,5 +67,5 @@ javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/ma
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sz.js?id=szse
 #EXTINF:-1 group-title="广东" tvg-name="深圳移动" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳移动.png", 深圳移动
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sz.js?id=szyd
-#EXTINF:-1 group-title="广东" tvg-name="深圳购物" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳购物.png", 深圳购物
+#EXTINF:-1 group-title="广东" tvg-name="宜和购物" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宜和购物.png", 宜和购物
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sz.js?id=yhgw

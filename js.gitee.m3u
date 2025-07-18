@@ -67,5 +67,5 @@ javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szcjsh
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
 #EXTINF:-1 group-title="广东" tvg-name="深圳移动" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳移动.png", 深圳移动
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szyd
-#EXTINF:-1 group-title="广东" tvg-name="深圳购物" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳购物.png", 深圳购物
+#EXTINF:-1 group-title="广东" tvg-name="宜和购物" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宜和购物.png", 宜和购物
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
