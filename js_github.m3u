@@ -69,3 +69,31 @@ javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/ma
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sz.js?id=szyd
 #EXTINF:-1 group-title="广东" tvg-name="宜和购物" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宜和购物.png", 宜和购物
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sz.js?id=yhgw
+#EXTINF:-1 group-title="贵州" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州卫视.png", 贵州卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/gz.js?id=ch01
+#EXTINF:-1 group-title="贵州" tvg-name="贵州公共" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州公共.png", 贵州公共
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/gz.js?id=ch02
+#EXTINF:-1 group-title="贵州" tvg-name="贵州影视文艺" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州影视文艺.png", 贵州影视文艺
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/gz.js?id=ch03
+#EXTINF:-1 group-title="贵州" tvg-name="贵州大众生活" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州大众生活.png", 贵州大众生活
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/gz.js?id=ch04
+#EXTINF:-1 group-title="贵州" tvg-name="贵州生态乡村" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州生态乡村.png", 贵州生态乡村
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/gz.js?id=ch05
+#EXTINF:-1 group-title="贵州" tvg-name="贵州科教健康" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州科教健康.png", 贵州科教健康
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/gz.js?id=ch06
+#EXTINF:-1 group-title="贵州" tvg-name="贵州移动电视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州移动电视.png", 贵州移动电视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/gz.js?id=ch13
+#EXTINF:-1 group-title="新疆" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆卫视.png", 新疆卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/xj.js?id=xjws
+#EXTINF:-1 group-title="新疆" tvg-name="新疆维语新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆维语新闻综合.png", 新疆维语新闻综合
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/xj.js?id=xjwyzh
+#EXTINF:-1 group-title="新疆" tvg-name="新疆哈语新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆哈语新闻综合.png", 新疆哈语新闻综合
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/xj.js?id=xjhyzh
+#EXTINF:-1 group-title="新疆" tvg-name="新疆综艺" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆综艺.png", 新疆综艺
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/xj.js?id=xjzy
+#EXTINF:-1 group-title="新疆" tvg-name="新疆维语影视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆维语影视.png", 新疆维语影视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/xj.js?id=xjwyys
+#EXTINF:-1 group-title="新疆" tvg-name="新疆体育健康" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆体育健康.png", 新疆体育健康
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/xj.js?id=xjtyjk
+#EXTINF:-1 group-title="新疆" tvg-name="新疆少儿" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆少儿.png", 新疆少儿
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/xj.js?id=xjse
