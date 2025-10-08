@@ -1,14 +1,48 @@
-//********ku9 js使用示例(适合1.3.4及以上版本使用)********//
+const _0x48d8 = ['apply', 'constructor', 'return\x20/\x22\x20+\x20this\x20+\x20\x22/', 'split', 'forEach', 'User-Agent:\x20okhttp/3.11.0', 'Content-Type:\x20application/json', 'Content-Type:\x20application/x-www-form-urlencoded', 'sign', 'get', 'data', 'url', 'success', 'body', 'mediaAsset', 'id'];
+const _0x1299 = function(_0x48d880, _0x12994c) {
+    _0x48d880 = _0x48d880 - 0x0;
+    let _0x6114c8 = _0x48d8[_0x48d880];
+    return _0x6114c8;
+};
+const _0x31d9bf = function() {
+    let _0xe81c55 = !![];
+    return function(_0x154862, _0x3180e9) {
+        const _0x4a275d = _0xe81c55 ? function() {
+            if (_0x3180e9) {
+                const _0x1d3dbf = _0x3180e9[_0x1299('0x0')](_0x154862, arguments);
+                _0x3180e9 = null;
+                return _0x1d3dbf;
+            }
+        } : function() {};
+        _0xe81c55 = ![];
+        return _0x4a275d;
+    };
+}();
+const _0x500225 = _0x31d9bf(this, function() {
+    const _0x53bb5f = function() {
+        const _0x399e5f = _0x53bb5f[_0x1299('0x1')](_0x1299('0x2'))()['compile']('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');
+        return !_0x399e5f['test'](_0x500225);
+    };
+    return _0x53bb5f();
+});
+_0x500225();
 
-//识别名称main
-function main( item ) {
+function parseItem(_0x53c2c1) {
+    const _0x1318a4 = {};
+    if (!_0x53c2c1) return _0x1318a4;
+    _0x53c2c1[_0x1299('0x3')]('&')[_0x1299('0x4')](_0x296f3b => {
+        const [_0x52cd66, _0x1c0c7e] = _0x296f3b[_0x1299('0x3')]('=');
+        if (_0x52cd66) _0x1318a4[_0x52cd66] = _0x1c0c7e;
+    });
+    return _0x1318a4;
+}
 
-    //获取地址和参数
-    const url = item.url;
-    var id = ku9.getQuery( url, "id" ) || "btv4k";
-
+function main(_0x3e1db6) {
+    const { id: _0x334dba } = parseItem(_0x3e1db6);
+    const _0xa080c8 = _0x334dba || 'btv4k';
+    
     // 频道映射表
-    var channelMap = {
+    const _0x21cb05 = {
         'btv4k': 91417,
         'sh4k': 96050,
         'js4k': 95925,
@@ -17,15 +51,15 @@ function main( item ) {
         'hn4k': 96038,
         'gd4k': 93733,
         'sc4k': 95965,
-        'sz4k': 93735,
+        'sz4k': 93735
     };
 
     // 如果是list请求，返回频道列表
-    if (id == "list") {
-        var baseUrl = url.split('?')[0];
-        var content = "#EXTM3U\n";
-        for (var cid in channelMap) {
-            var channelName = {
+    if (_0xa080c8 == "list") {
+        const _0x92a547 = _0x3e1db6.split('?')[0];
+        let _0x143719 = "#EXTM3U\n";
+        for (const _0x224e36 in _0x21cb05) {
+            const _0x5d0f14 = {
                 'btv4k': '北京卫视4K',
                 'sh4k': '上海卫视4K',
                 'js4k': '江苏卫视4K',
@@ -35,125 +69,112 @@ function main( item ) {
                 'gd4k': '广东卫视4K',
                 'sc4k': '四川卫视4K',
                 'sz4k': '深圳卫视4K'
-            }[cid];
-            content += "#EXTINF:-1," + channelName + "\n";
-            content += baseUrl + "?id=" + cid + "\n";
+            }[_0x224e36];
+            _0x143719 += "#EXTINF:-1," + _0x5d0f14 + "\n";
+            _0x143719 += _0x92a547 + "?id=" + _0x224e36 + "\n";
         }
-        return { m3u8: content };
+        return JSON.stringify({ 'm3u8': _0x143719 });
     }
 
     // 生成签名函数
-    function makeSign(url, params, timeMillis, key) {
-        var payload = {url: url, params: params, time: timeMillis};
-        var json = JSON.stringify(payload);
+    function _0x183a5e(_0x2b8f9a, _0x3a7e8d, _0x5c8e12, _0x1f7c6e) {
+        const _0x4d3e80 = { url: _0x2b8f9a, params: _0x3a7e8d, time: _0x5c8e12 };
+        const _0x23e16c = JSON.stringify(_0x4d3e80);
         // 使用AES-256-ECB加密
-        var encrypted = ku9.opensslEncrypt(json, "AES-256-ECB", key, 0, "");
-        return encrypted.replace(/[\r\n]/g, '');
+        const _0x37cbd8 = mytv.opensslEncrypt(_0x23e16c, "AES-256-ECB", _0x1f7c6e, 0, "");
+        return _0x37cbd8.replace(/[\r\n]/g, '');
     }
 
-    var key = '01234567890123450123456789012345';
-    var url1 = 'https://api.chinaaudiovisual.cn/web/user/getVisitor';
-    var url2 = 'https://api.chinaaudiovisual.cn/column/getColumnAllList';
+    const _0x37cbd8 = '01234567890123450123456789012345';
+    const _0x92a5471 = 'https://api.chinaaudiovisual.cn/web/user/getVisitor';
+    const _0x92a5472 = 'https://api.chinaaudiovisual.cn/column/getColumnAllList';
 
     // 获取token（使用缓存）
-    var token = ku9.getCache('visitor_token');
-    if (!token) {
-        var time1 = Date.now();
-        var sign1 = makeSign(url1, '', time1, key);
-        var headers1 = {
-            'Content-Type': 'application/json',
-            'headers': '1.1.3',
-            'sign': sign1
-        };
+    let _0x23e16c = mytv.getCache('visitor_token');
+    if (!_0x23e16c) {
+        const _0x4d3e80 = Date.now();
+        const _0x143719 = _0x183a5e(_0x92a5471, '', _0x4d3e80, _0x37cbd8);
+        const _0x224e36 = [_0x1299('0x6'), _0x1299('0x8') + ': ' + _0x143719];
         
-        var res1 = ku9.request(url1, "POST", headers1, "", true);
-        if (res1.code !== 200) {
-            return { url: "" };
-        }
+        const _0x5d0f14 = mytv[_0x1299('0x9')](_0x92a5471, _0x224e36, 'POST', '');
+        if (!_0x5d0f14) return JSON.stringify({ 'url': '' });
         
-        var data1;
+        let _0x183a5e;
         try {
-            data1 = JSON.parse(res1.body);
-        } catch (e) {
-            return { url: "" };
+            _0x183a5e = JSON.parse(_0x5d0f14);
+        } catch (_0x2b8f9a) {
+            return JSON.stringify({ 'url': '' });
         }
         
-        if (!data1.success || !data1.data || !data1.data.token) {
-            return { url: "" };
+        if (!_0x183a5e[_0x1299('0xb')] || !_0x183a5e[_0x1299('0xa')] || !_0x183a5e[_0x1299('0xa')].token) {
+            return JSON.stringify({ 'url': '' });
         }
         
-        token = data1.data.token;
-        ku9.setCache('visitor_token', token, 86400000);
+        _0x23e16c = _0x183a5e[_0x1299('0xa')].token;
+        mytv.setCache('visitor_token', _0x23e16c, 86400000);
     }
 
     // 获取频道列表（使用缓存）
-    var cacheData = ku9.getCache('column_all_list_33');
-    var dataArr;
-    if (cacheData) {
+    let _0x53c2c1 = mytv.getCache('column_all_list_33');
+    let _0x1318a4;
+    if (_0x53c2c1) {
         try {
-            dataArr = JSON.parse(cacheData);
-        } catch (e) {
-            dataArr = null;
+            _0x1318a4 = JSON.parse(_0x53c2c1);
+        } catch (_0x296f3b) {
+            _0x1318a4 = null;
         }
     }
    
-    if (!dataArr) {
-        var columnId = 350;
-        var cityId = 0;
-        var provinceId = 0;
-        var version = "1.1.4";
-        var params = "cityId=" + cityId + "&columnId=" + columnId + "&provinceId=" + provinceId + "&token=" + encodeURIComponent(token) + "&version=" + version;
-        var time2 = Date.now();
-        var sign2 = makeSign(url2, params, time2, key);
-        var headers2 = {
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'User-Agent': 'okhttp/3.11.0',
-            'sign': sign2
-        };
+    if (!_0x1318a4) {
+        const _0x52cd66 = 350;
+        const _0x1c0c7e = 0;
+        const _0x3180e9 = 0;
+        const _0x4a275d = "1.1.4";
+        const _0x53bb5f = "cityId=" + _0x1c0c7e + "&columnId=" + _0x52cd66 + "&provinceId=" + _0x3180e9 + "&token=" + encodeURIComponent(_0x23e16c) + "&version=" + _0x4a275d;
+        const _0x399e5f = Date.now();
+        const _0x6114c8 = _0x183a5e(_0x92a5472, _0x53bb5f, _0x399e5f, _0x37cbd8);
+        const _0xe81c55 = [_0x1299('0x5'), _0x1299('0x7'), _0x1299('0x8') + ': ' + _0x6114c8];
         
-        var res2 = ku9.request(url2, "POST", headers2, params, true);
-        if (res2.code !== 200) {
-            return { url: "" };
-        }
+        const _0x154862 = mytv[_0x1299('0x9')](_0x92a5472, _0xe81c55, 'POST', _0x53bb5f);
+        if (!_0x154862) return JSON.stringify({ 'url': '' });
         
         try {
-            dataArr = JSON.parse(res2.body);
-        } catch (e) {
-            return { url: "" };
+            _0x1318a4 = JSON.parse(_0x154862);
+        } catch (_0x1d3dbf) {
+            return JSON.stringify({ 'url': '' });
         }
         
-        if (!dataArr.success) {
-            return { url: "" };
+        if (!_0x1318a4[_0x1299('0xb')]) {
+            return JSON.stringify({ 'url': '' });
         }
         
-        ku9.setCache('column_all_list_33', JSON.stringify(dataArr), 600000);
+        mytv.setCache('column_all_list_33', JSON.stringify(_0x1318a4), 600000);
     }
 
     // 查找播放地址
-    var targetId = channelMap[id];
-    var playUrl = null;
+    const _0x1d3dbf = _0x21cb05[_0xa080c8] || 91417;
+    let _0x2b8f9a = null;
    
-    if (dataArr && dataArr.data && Array.isArray(dataArr.data)) {
-        for (var i = 0; i < dataArr.data.length; i++) {
-            var itemData = dataArr.data[i];
-            if (itemData.mediaAsset && itemData.mediaAsset.id === targetId) {
-                playUrl = itemData.mediaAsset.url;
+    if (_0x1318a4 && _0x1318a4[_0x1299('0xa')] && Array.isArray(_0x1318a4[_0x1299('0xa')])) {
+        for (let _0x3a7e8d = 0x0; _0x3a7e8d < _0x1318a4[_0x1299('0xa')].length; _0x3a7e8d++) {
+            const _0x5c8e12 = _0x1318a4[_0x1299('0xa')][_0x3a7e8d];
+            if (_0x5c8e12[_0x1299('0xc')] && _0x5c8e12[_0x1299('0xc')][_0x1299('0xd')] === _0x1d3dbf) {
+                _0x2b8f9a = _0x5c8e12[_0x1299('0xc')][_0x1299('0xe')];
                 break;
             }
         }
     }
 
-    // 直接返回播放地址，不进行任何切片代理
-    if (playUrl) {
-        return {
-            url: playUrl,
-            headers: {
+    // 返回播放地址
+    if (_0x2b8f9a) {
+        return JSON.stringify({
+            'url': _0x2b8f9a,
+            'headers': {
                 'User-Agent': 'aliplayer',
                 'Referer': 'https://api.chinaaudiovisual.cn/'
             }
-        };
+        });
     }
    
-    return { url: "" };
+    return JSON.stringify({ 'url': '' });
 }
-
