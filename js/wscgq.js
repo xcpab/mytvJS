@@ -1,24 +1,13 @@
-function parseItem(paramstr) {
-    const params = {};
-    if (!paramstr) return params;
-    paramstr.split('&').forEach(item => {
-        const [key, value] = item.split('=');
-        if (key) params[key] = value;
-    });
-    return params;
-}
-
-// 生成签名函数
-function makeSign(url, params, timeMillis, key) {
-    const payload = {url: url, params: params, time: timeMillis};
-    const json = JSON.stringify(payload);
-    // 使用AES-256-ECB加密
-    const encrypted = mytv.opensslEncrypt(json, "AES-256-ECB", key, 0, "");
-    return encrypted.replace(/[\r\n]/g, '');
-}
-
 function main(paramstr) {
-    const params = parseItem(paramstr);
+    // 解析参数
+    const params = {};
+    if (paramstr) {
+        paramstr.split('&').forEach(item => {
+            const [key, value] = item.split('=');
+            if (key) params[key] = value;
+        });
+    }
+    
     const id = params.id || 'btv4k';
     
     // 频道映射表
@@ -56,11 +45,20 @@ function main(paramstr) {
         return content;
     }
 
+    // 生成签名函数
+    function makeSign(url, params, timeMillis, key) {
+        const payload = {url: url, params: params, time: timeMillis};
+        const json = JSON.stringify(payload);
+        // 使用AES-256-ECB加密
+        const encrypted = mytv.opensslEncrypt(json, "AES-256-ECB", key, 0, "");
+        return encrypted.replace(/[\r\n]/g, '');
+    }
+
     const key = '01234567890123450123456789012345';
     const url1 = 'https://api.chinaaudiovisual.cn/web/user/getVisitor';
     const url2 = 'https://api.chinaaudiovisual.cn/column/getColumnAllList';
 
-    // 获取token（使用缓存）
+    // 获取token
     let token = mytv.getCache('visitor_token');
     if (!token) {
         const time1 = Date.now();
@@ -91,7 +89,7 @@ function main(paramstr) {
         mytv.setCache('visitor_token', token, 86400000);
     }
 
-    // 获取频道列表（使用缓存）
+    // 获取频道列表
     let cacheData = mytv.getCache('column_all_list_33');
     let dataArr;
     if (cacheData) {
