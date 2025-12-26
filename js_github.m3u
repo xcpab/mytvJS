@@ -1,222 +1,154 @@
 #EXTM3U x-tvg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.gz"
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV1.png",CCTV1综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608807420
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV2.png",CCTV2财经
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=631780532
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV3.png",CCTV3综艺
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=624878271
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4.png",CCTV4中文国际
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=631780421
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV5.png",CCTV5体育
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=641886683
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV5+.png",CCTV5+体育赛事
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=641886773
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV6.png",CCTV6电影
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=624878396
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV7.png",CCTV7国防军事
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=673168121
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV8.png",CCTV8电视剧
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=624878356
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV9.png",CCTV9纪录
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=673168140
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV10.png",CCTV10科教
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=624878405
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV11.png",CCTV11戏曲
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=667987558
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV12.png",CCTV12社会与法
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=673168185
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV13.png",CCTV13新闻
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608807423
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV14.png",CCTV14少儿
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=624878440
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV15.png",CCTV15音乐
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=673168223
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV17.png",CCTV17农业农村
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=673168256
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4.png",CCTV4欧洲
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608807419
-#EXTINF:-1 group-title="咪咕" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4.png",CCTV4美洲
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608807416
-#EXTINF:-1 group-title="咪咕" tvg-name="CGTN外语纪录" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN外语纪录.png",CGTN外语纪录
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609006487
-#EXTINF:-1 group-title="咪咕" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN阿拉伯语.png",CGTN阿拉伯语
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609154345
-#EXTINF:-1 group-title="咪咕" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN西班牙语.png",CGTN西班牙语
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609006450
-#EXTINF:-1 group-title="咪咕" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN法语.png",CGTN法语
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609006476
-#EXTINF:-1 group-title="咪咕" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN俄语.png",CGTN俄语
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609006446
-#EXTINF:-1 group-title="咪咕" tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/老故事.png",老故事
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=884121956
-#EXTINF:-1 group-title="咪咕" tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中学生.png",中学生
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=708869532
-#EXTINF:-1 group-title="咪咕" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN.png",CGTN
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609017205
-#EXTINF:-1 group-title="咪咕" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东方卫视.png",东方卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=651632648
-#EXTINF:-1 group-title="咪咕" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏卫视.png",江苏卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=623899368
-#EXTINF:-1 group-title="咪咕" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东卫视.png",广东卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608831231
-#EXTINF:-1 group-title="咪咕" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江西卫视.png",江西卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=783847495
-#EXTINF:-1 group-title="咪咕" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河南卫视.png",河南卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=790187291
-#EXTINF:-1 group-title="咪咕" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/陕西卫视.png",陕西卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=738910838
-#EXTINF:-1 group-title="咪咕" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/大湾区卫视.png",大湾区卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608917627
-#EXTINF:-1 group-title="咪咕" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/湖北卫视.png",湖北卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=947472496
-#EXTINF:-1 group-title="咪咕" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/吉林卫视.png",吉林卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=947472500
-#EXTINF:-1 group-title="咪咕" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/青海卫视.png",青海卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=947472506
-#EXTINF:-1 group-title="咪咕" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东南卫视.png",东南卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=849116810
-#EXTINF:-1 group-title="咪咕" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/海南卫视.png",海南卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=947472502
-#EXTINF:-1 group-title="咪咕" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/海峡卫视.png",海峡卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=849119120
-#EXTINF:-1 group-title="咪咕" tvg-name="中国农林卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中国农林卫视.png",中国农林卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=956904896
-#EXTINF:-1 group-title="咪咕" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/兵团卫视.png",兵团卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=956923145
-#EXTINF:-1 group-title="咪咕" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/辽宁卫视.png",辽宁卫视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=630291707
-#EXTINF:-1 group-title="咪咕" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/上海新闻综合.png",上海新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=651632657
-#EXTINF:-1 group-title="咪咕" tvg-name="上视东方影视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/上视东方影视.png",上视东方影视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=617290047
-#EXTINF:-1 group-title="咪咕" tvg-name="南京新闻综合频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南京新闻综合频道.png",南京新闻综合频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=838109047
-#EXTINF:-1 group-title="咪咕" tvg-name="南京教科频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南京教科频道.png",南京教科频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=838153729
-#EXTINF:-1 group-title="咪咕" tvg-name="南京十八频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南京十八频道.png",南京十八频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=838151753
-#EXTINF:-1 group-title="咪咕" tvg-name="江苏城市频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏城市频道.png",江苏城市频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=626064714
-#EXTINF:-1 group-title="咪咕" tvg-name="江苏国际" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏国际.png",江苏国际
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=626064674
-#EXTINF:-1 group-title="咪咕" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏教育.png",江苏教育
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=628008321
-#EXTINF:-1 group-title="咪咕" tvg-name="江苏影视频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏影视频道.png",江苏影视频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=626064697
-#EXTINF:-1 group-title="咪咕" tvg-name="江苏综艺频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏综艺频道.png",江苏综艺频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=626065193
-#EXTINF:-1 group-title="咪咕" tvg-name="公共新闻频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/公共新闻频道.png",公共新闻频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=626064693
-#EXTINF:-1 group-title="咪咕" tvg-name="盐城新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/盐城新闻综合.png",盐城新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=639731825
-#EXTINF:-1 group-title="咪咕" tvg-name="淮安新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/淮安新闻综合.png",淮安新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=639731826
-#EXTINF:-1 group-title="咪咕" tvg-name="泰州新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/泰州新闻综合.png",泰州新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=639731818
-#EXTINF:-1 group-title="咪咕" tvg-name="连云港新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/连云港新闻综合.png",连云港新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=639731715
-#EXTINF:-1 group-title="咪咕" tvg-name="宿迁新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宿迁新闻综合.png",宿迁新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=639731832
-#EXTINF:-1 group-title="咪咕" tvg-name="徐州新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/徐州新闻综合.png",徐州新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=639731747
-#EXTINF:-1 group-title="咪咕" tvg-name="优漫卡通频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/优漫卡通频道.png",优漫卡通频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=626064703
-#EXTINF:-1 group-title="咪咕" tvg-name="江阴新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江阴新闻综合.png",江阴新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=955227979
-#EXTINF:-1 group-title="咪咕" tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南通新闻综合.png",南通新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=955227985
-#EXTINF:-1 group-title="咪咕" tvg-name="宜兴新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宜兴新闻综合.png",宜兴新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=955227996
-#EXTINF:-1 group-title="咪咕" tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/溧水新闻综合.png",溧水新闻综合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=639737327
-#EXTINF:-1 group-title="咪咕" tvg-name="陕西银龄频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/陕西银龄频道.png",陕西银龄频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=956909362
-#EXTINF:-1 group-title="咪咕" tvg-name="陕西都市青春频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/陕西都市青春频道.png",陕西都市青春频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=956909358
-#EXTINF:-1 group-title="咪咕" tvg-name="陕西体育休闲频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/陕西体育休闲频道.png",陕西体育休闲频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=956909356
-#EXTINF:-1 group-title="咪咕" tvg-name="陕西秦腔频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/陕西秦腔频道.png",陕西秦腔频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=956909303
-#EXTINF:-1 group-title="咪咕" tvg-name="陕西新闻资讯频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/陕西新闻资讯频道.png",陕西新闻资讯频道
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=956909289
-#EXTINF:-1 group-title="咪咕" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/财富天下.png",财富天下
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=956923159
-#EXTINF:-1 group-title="咪咕" tvg-name="经典深圳旁边电影" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/经典深圳旁边电影.png",经典深圳旁边电影
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=625703337
-#EXTINF:-1 group-title="咪咕" tvg-name="抗战经典影片" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/抗战经典影片.png",抗战经典影片
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=617432318
-#EXTINF:-1 group-title="咪咕" tvg-name="新片放映厅" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新片放映厅.png",新片放映厅
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=619495952
-#EXTINF:-1 group-title="咪咕" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CHC影迷电影.png",CHC影迷电影
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=952383261
-#EXTINF:-1 group-title="咪咕" tvg-name="和美乡途轮播台" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/和美乡途轮播台.png",和美乡途轮播台
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=713591450
-#EXTINF:-1 group-title="咪咕" tvg-name="高清大片" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/高清大片.png",高清大片
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=629943678
-#EXTINF:-1 group-title="咪咕" tvg-name="南方影视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南方影视.png",南方影视
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=614961829
-#EXTINF:-1 group-title="咪咕" tvg-name="血色山河·抗日战争影像志" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/血色山河·抗日战争影像志.png",血色山河·抗日战争影像志
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=713600957
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道01高清" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道01高清.png",熊猫频道01高清
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609158151
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道1" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道1.png",熊猫频道1
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608933610
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道2" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道2.png",熊猫频道2
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608933640
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道3" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道3.png",熊猫频道3
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608934619
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道4" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道4.png",熊猫频道4
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608934721
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道5" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道5.png",熊猫频道5
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608935104
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道6" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道6.png",熊猫频道6
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=608935797
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道7" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道7.png",熊猫频道7
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609169286
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道8" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道8.png",熊猫频道8
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609169287
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道9" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道9.png",熊猫频道9
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609169226
-#EXTINF:-1 group-title="咪咕" tvg-name="熊猫频道10" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/熊猫频道10.png",熊猫频道10
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609169285
-#EXTINF:-1 group-title="咪咕" tvg-name="最强综艺趴" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/最强综艺趴.png",最强综艺趴
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=629942228
-#EXTINF:-1 group-title="咪咕" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/嘉佳卡通.png",嘉佳卡通
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=614952364
-#EXTINF:-1 group-title="咪咕" tvg-name="经典动画大集合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/经典动画大集合.png",经典动画大集合
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=629942219
-#EXTINF:-1 group-title="咪咕" tvg-name="新动力量创一流" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新动力量创一流.png",新动力量创一流
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=713589837
-#EXTINF:-1 group-title="咪咕" tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/环球旅游.png",环球旅游
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=958475356
-#EXTINF:-1 group-title="咪咕" tvg-name="钱塘江" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/钱塘江.png",钱塘江
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=647370520
-#EXTINF:-1 group-title="咪咕" tvg-name="五环传奇" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/五环传奇.png",五环传奇
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=707671890
-#EXTINF:-1 group-title="咪咕" tvg-name="赛事最经典" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/赛事最经典.png",赛事最经典
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=646596895
-#EXTINF:-1 group-title="咪咕" tvg-name="掼蛋精英赛" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/掼蛋精英赛.png",掼蛋精英赛
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=631354620
-#EXTINF:-1 group-title="咪咕" tvg-name="体坛名栏汇" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/体坛名栏汇.png",体坛名栏汇
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=629943305
-#EXTINF:-1 group-title="咪咕" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/四海钓鱼.png",四海钓鱼
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=637444975
-#EXTINF:-1 group-title="咪咕" tvg-name="咪咕24小时体育台" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/咪咕24小时体育台.png",咪咕24小时体育台
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=654102378
-#EXTINF:-1 group-title="咪咕" tvg-name="24小时城市联赛轮播台" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/24小时城市联赛轮播台.png",24小时城市联赛轮播台
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=915512915
-#EXTINF:-1 group-title="咪咕" tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/武术世界.png",武术世界
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=958475359
-#EXTINF:-1 group-title="咪咕" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV1.png",CETV1
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=923287154
-#EXTINF:-1 group-title="咪咕" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV2.png",CETV2
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=923287211
-#EXTINF:-1 group-title="咪咕" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV4.png",CETV4
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=923287339
-#EXTINF:-1 group-title="咪咕" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/山东教育.png",山东教育
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/migu.js?id=609154353
-#EXTINF:-1 group-title="北京" tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京纪实科教.png",北京纪实科教8K
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/btv8k.js
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV1.png",CCTV1
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV2.png",CCTV2
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024075401&livepid=600001800&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV3.png",CCTV3
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024068501&livepid=600001801&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4.png",CCTV4
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078301&livepid=600001814&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV5.png",CCTV5
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078401&livepid=600001818&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV5+.png",CCTV5+
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078001&livepid=600001817&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV6.png",CCTV6
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2013693901&livepid=600108442&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV7.png",CCTV7
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024072001&livepid=600004092&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV8.png",CCTV8
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078501&livepid=600001803&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV9.png",CCTV9
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078601&livepid=600004078&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV10.png",CCTV10
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078701&livepid=600001805&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV11.png",CCTV11
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2027248701&livepid=600001806&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV12.png",CCTV12
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2027248801&livepid=600001807&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV13.png",CCTV13
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024079001&livepid=600001811&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV14.png",CCTV14
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2027248901&livepid=600001809&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV15.png",CCTV15
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2027249001&livepid=600001815&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV16.png",CCTV16
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2027249101&livepid=600098637&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV16(4K)" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV16(4K).png",CCTV16(4K)
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2027249301&livepid=600099502&defn=hdr
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV17.png",CCTV17
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2027249401&livepid=600001810&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4K.png",CCTV4K
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2027249501&livepid=600002264&defn=hdr
+#EXTINF:-1 group-title="央视频" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV8K.png",CCTV8K
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026774101&livepid=600156816&defn=hdr
+#EXTINF:-1 group-title="央视频" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN.png",CGTN
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024181701&livepid=600014550&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN法语.png",CGTN法语
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024181801&livepid=600084704&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN俄语.png",CGTN俄语
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024181901&livepid=600084758&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN阿拉伯语.png",CGTN阿拉伯语
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024182001&livepid=600084782&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN西班牙语.png",CGTN西班牙语
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024182101&livepid=600084744&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CGTN外语纪录" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN外语纪录.png",CGTN外语纪录
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024182301&livepid=600084781&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/第一剧场.png",第一剧场
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026874203&livepid=600099655&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/风云剧场.png",风云剧场
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025637103&livepid=600099658&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/怀旧剧场.png",怀旧剧场
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026874303&livepid=600099620&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/世界地理.png",世界地理
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026874403&livepid=600099637&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/风云音乐.png",风云音乐
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026874503&livepid=600099660&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/兵器科技.png",兵器科技
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026874603&livepid=600099649&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/风云足球.png",风云足球
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026966203&livepid=600099636&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="高尔夫·网球" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/高尔夫·网球.png",高尔夫·网球
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026874703&livepid=600099659&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/女性时尚.png",女性时尚
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026874803&livepid=600099650&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/央视文化精品.png",央视文化精品
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026874903&livepid=600099653&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/央视台球.png",央视台球
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026875003&livepid=600099652&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/电视指南.png",电视指南
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2026875103&livepid=600099656&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/卫生健康.png",卫生健康
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025637003&livepid=600099651&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京卫视.png",北京卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024052703&livepid=600002309&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东方卫视.png",东方卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024054503&livepid=600002483&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏卫视.png",江苏卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171103&livepid=600002521&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/浙江卫视.png",浙江卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024054703&livepid=600002520&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/湖南卫视.png",湖南卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024054803&livepid=600002475&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/湖北卫视.png",湖北卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171203&livepid=600002508&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东卫视.png",广东卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024060903&livepid=600002485&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广西卫视.png",广西卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024060703&livepid=600002509&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/黑龙江卫视.png",黑龙江卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061003&livepid=600002498&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/海南卫视.png",海南卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024055603&livepid=600002506&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/重庆卫视.png",重庆卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061103&livepid=600002531&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV1.png",CETV1
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2022823801&livepid=600171827&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳卫视.png",深圳卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061303&livepid=600002481&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/四川卫视.png",四川卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061403&livepid=600002516&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河南卫视.png",河南卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024059703&livepid=600002525&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东南卫视.png",东南卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061503&livepid=600002484&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州卫视.png",贵州卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061603&livepid=600002490&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江西卫视.png",江西卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061703&livepid=600002503&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/辽宁卫视.png",辽宁卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171303&livepid=600002505&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/安徽卫视.png",安徽卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171403&livepid=600002532&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河北卫视.png",河北卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171503&livepid=600002493&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/山东卫视.png",山东卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171603&livepid=600002513&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/天津卫视.png",天津卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2019927003&livepid=600152137&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/陕西卫视.png",陕西卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561103&livepid=600190400&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/内蒙古卫视.png",内蒙古卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561203&livepid=600190401&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/甘肃卫视.png",甘肃卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561703&livepid=600190408&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宁夏卫视.png",宁夏卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025608503&livepid=600190737&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/山西卫视.png",山西卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025560803&livepid=600190407&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/云南卫视.png",云南卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561303&livepid=600190402&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/吉林卫视.png",吉林卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561503&livepid=600190405&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/青海卫视.png",青海卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025559103&livepid=600190406&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/西藏卫视.png",西藏卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025558003&livepid=600190403&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆卫视.png",新疆卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2019927403&livepid=600152138&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/兵团卫视.png",兵团卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025990501&livepid=600193252&defn=fhd
+#EXTINF:-1 group-title="央视频" tvg-name="国学频道" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/国学频道.png",国学频道
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2029360403&livepid=600213139&defn=fhd
 #EXTINF:-1 group-title="成都" tvg-name="成都新闻综合" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/成都新闻综合.png",成都新闻综合
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
 #EXTINF:-1 group-title="成都" tvg-name="成都经济资讯" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/成都经济资讯.png",成都经济资讯
