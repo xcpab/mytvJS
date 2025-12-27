@@ -60,11 +60,23 @@ const body = mytv.post(url, headers, post_body);
 const body = mytv.fetch(url);
 ```
 
+## request
+
+```
+const response = mytv.request(url, method,headers,body)
+const body = response.body;
+```
+- url为链接（不可空）
+- method为GET或POST（默认GET）
+- headers为请求头数组（如['Accept: application/json, text/javascript, */*; q=0.01']）
+- body为POST请求体
+  
+- 返回响应对象，包括body，code，headers，message四个属性
 ## 存储文件
 
 ```
 // 判断文件存在
-mytv.fileExists(fileName) -> Boolean
+mytv.fileExists(fileName, timeOut) -> Boolean
 
 //读取文件
 const contentStr = mytv.readFile(filename);
@@ -87,12 +99,12 @@ function main(item) {
 }
 返回JSON字符串，属性包括：
 url，字符串，为可播放的地址
-error，字符串，为错误信息，没有错误时为null
-headers，字符串，为请求头，例如：
+error，字符串，为错误信息，没有错误时不传值
+headers，字符串，为请求头，不需要指定时不传值。例如：
 function main(item) {
     const { url } = parseItems(item);
     const headers = ['Accept: application/json, text/javascript, */*; q=0.01'].join('\n');
-    return JSON.stringify({ url: url, error: null, headers: headers });
+    return JSON.stringify({ url: url, headers: headers });
 }
 支持直接通过CryptoJS库进行加密解密操作，例如：
 const signMd5 = CryptoJS.MD5(signMd5Str).toString(); //md5加密
