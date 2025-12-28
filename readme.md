@@ -93,7 +93,7 @@ mytv.writeFile(filename, contentStr);
 基于提供的代码，将其转为mytv上可用的js格式，它支持基本的js格式，额外的API如下：
 程序的入口是main函数，参数为url的查询字符串，你可以通过内置的parseItems函数将参数提取为对象，如：
 function main(item) {
-    const { id } = parseItema(item); //第一种
+    const { id } = parseItems(item); //第一种
     const items = parseItems(item); //第二种
     items.id; //可以直接使用
 }

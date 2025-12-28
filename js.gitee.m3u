@@ -269,5 +269,19 @@ javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=12
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
 #EXTINF:-1 group-title="广东" tvg-name="广州新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广州新闻.png", 广州新闻
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=xinwen
-#EXTINF:-1 group-title="广东" tvg-name="广州南国都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广州南国都市.png", 广州南国都市
+#EXTINF:-1 group-title="广东" tvg-name="广州南国都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广州南国都市.png", 南国都市
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=shenghuo
+#EXTINF:-1 group-title="海南" tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png", 海南卫视
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=hnws
+#EXTINF:-1 group-title="海南" tvg-name="三沙卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三沙卫视.png", 三沙卫视
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=ssws
+#EXTINF:-1 group-title="海南" tvg-name="海南新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南新闻.png", 海南新闻
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=xwpd
+#EXTINF:-1 group-title="海南" tvg-name="海南文旅" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南文旅.png", 海南文旅
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=wlpd
+#EXTINF:-1 group-title="海南" tvg-name="海南自贸" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南自贸.png", 海南自贸
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=jjpd
+#EXTINF:-1 group-title="海南" tvg-name="海南公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南公共.png", 海南公共
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=ggpd
+#EXTINF:-1 group-title="海南" tvg-name="海南少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南少儿.png", 海南少儿
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=sepd
